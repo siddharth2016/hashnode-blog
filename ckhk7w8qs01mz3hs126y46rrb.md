@@ -20,7 +20,7 @@ And last month it gave several new updates 👇
 👉 CHANGE EMAIL ASSOCIATED WITH COMMIT
 
 ❄️ You need a little more control on how your commit appears ?</br>
-❄️ Add email associated with commit/merge and change it's description as well !
+❄️ Add email associated with commit/merge and change it's description as well.
 
 👉 JUMP TO OPTION TO REVIEW MULTIPLE FILES
 
