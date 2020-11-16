@@ -14,9 +14,9 @@ There may be pitfalls to both strategies, but we should look at how we can reduc
 
 To get a scalable model, we can look at following points before designing our project:
 
-⚡ Visibility of class methods
-⚡ Control over classes
-⚡ Relationship between classes
+⚡ Visibility of class methods</br>
+⚡ Control over classes</br>
+⚡ Relationship between classes</br>
 ⚡ Entities in classes
 
 Your thoughts on Inheritance and Composition ? What are the factors you take into account before proceeding ? Which one do you prefer or use regularly ?
