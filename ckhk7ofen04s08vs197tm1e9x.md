@@ -9,8 +9,7 @@ If you are still in doubt of what is Machine Learning or what actually happens i
 
 [Teachable Machine](https://teachablemachine.withgoogle.com/) - A Google initiative to help people understand the gist of Machine Learning
 
-[ML-Playground]
-(https://ml-playground.com/) - An Open Source website to help you play around with various ML models
+[ML-Playground](https://ml-playground.com/) - An Open Source website to help you play around with various ML models
 
 These 2 websites are at my top recommendation, whenever someone asks me what is Machine Learning.
 
