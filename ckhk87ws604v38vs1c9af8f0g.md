@@ -4,10 +4,10 @@ So, yesterday I stumbled upon an insightful post on the actual use case for CPyt
 
 Some of the use cases I found helpful
 
-✔ Personal Automation & Hobby Projects
-✔ Organisational Process Automation
-✔ Continuously Upgraded Infrastructure
-✔ Ephemeral Software
+✔ Personal Automation & Hobby Projects</br>
+✔ Organisational Process Automation</br>
+✔ Continuously Upgraded Infrastructure</br>
+✔ Ephemeral Software</br>
 ✔ Shared Abstraction Layers
 
 There are so many things he discuss in the article, like
