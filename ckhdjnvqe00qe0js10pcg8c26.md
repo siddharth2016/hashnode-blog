@@ -23,3 +23,5 @@ DevOps is much more than Dev + Ops !
 Everything is streamlined, not only the development but the whole process of interaction with people !
 
 **DevOps is fun !**
+
+Namaste 🙏
