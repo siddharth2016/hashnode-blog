@@ -20,3 +20,5 @@ To get a scalable model, we can look at following points before designing our pr
 ⚡ Entities in classes
 
 Your thoughts on Inheritance and Composition ? What are the factors you take into account before proceeding ? Which one do you prefer or use regularly ?
+
+Namaste 🙏
