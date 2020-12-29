@@ -44,3 +44,5 @@ Here the parser consider print(2) as function first, then evaluates return of pr
 Anyway, it is really amazing to see generic way of using statements in-place of other functions !
 
 Would you love to use a python statement over a function ? If not, why is that ?
+
+Namaste 🙏
