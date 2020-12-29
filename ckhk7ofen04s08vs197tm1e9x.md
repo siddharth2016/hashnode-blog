@@ -14,3 +14,5 @@ If you are still in doubt of what is Machine Learning or what actually happens i
 These 2 websites are at my top recommendation, whenever someone asks me what is Machine Learning.
 
 Mention your resources, papers, books, videos or site you loved to start your ML journey.
+
+Namaste 🙏
