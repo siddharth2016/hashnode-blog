@@ -24,3 +24,5 @@ Link to article:
 [Data Oriented Python](https://www.moderndescartes.com/essays/data_oriented_python/)
 
 Did you like the article ? What are your views on it ?
+
+Namaste 🙏
