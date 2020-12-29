@@ -20,4 +20,6 @@ Also, there is one more utility action I made just for fun, you can also check t
 
 Let me know about your experience with GitHub Actions, which exciting action did you make or are in the process of making ?
 
-PS: I was just learning GitHub Actions and thought to make something that i would like, say, some random text appearing on my github profile ? and then i went ahead and made it !! 🙏
+PS: I was just learning GitHub Actions and thought to make something that i would like, say, some random text appearing on my GitHub Profile ? and then i went ahead and made it !! 🙏
+
+Namaste 🙏
