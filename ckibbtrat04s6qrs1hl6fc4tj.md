@@ -95,3 +95,5 @@ That's it from me today ! I hope you enjoyed and learned something new from this
 Github [link](https://github.com/Siddharth2016/Opencv-Python-Computer-Vision/blob/master/brocadeNaruto.py) to the whole python script.
 
 Stack Overflow [link](https://stackoverflow.com/questions/26857829/does-filter2d-in-opencv-really-do-its-job) for filter2D working.
+
+Namaste 🙏
