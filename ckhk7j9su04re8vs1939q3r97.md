@@ -11,3 +11,5 @@ In my opinion, most important “Dunder” or “Magic” methods that everyone 
 ✔ `__enter__` and `__exit__`</br>
 
 What are some of your most commonly used dunder methods that you consider while designing a class ?
+
+Namaste 🙏
