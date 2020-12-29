@@ -19,3 +19,5 @@ There are so many modules to do a particular task, why aren’t we making a pros
 If we know how to debug a code, then we should just dive into code of such open-source libraries and see for ourself whether they solve our problem the way we want.
 
 What are your views on different scraping libraries available ? Which one do you prefer or use regularly ?
+
+Namaste 🙏
