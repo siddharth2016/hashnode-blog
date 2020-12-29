@@ -18,3 +18,5 @@ Where does PyPI fit into the picture? (my favourite section)
 And, many more !!
 
 Article link in the comments. Do check it out !
+
+Namaste 🙏
