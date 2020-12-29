@@ -11,3 +11,5 @@ We have seen a whole lot of amazing features being introduced to Python since Py
 But, one could never argue that Python 3.5 was the dawn of showing the world the power it has !
 
 As we move on to Python 3.9, I could never forget that my journey to programming started with Python 3.5 and with it’s intriguing features !
+
+Namaste 🙏
