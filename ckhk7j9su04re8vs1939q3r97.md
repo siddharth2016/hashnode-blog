@@ -12,4 +12,6 @@ In my opinion, most important “Dunder” or “Magic” methods that everyone 
 
 What are some of your most commonly used dunder methods that you consider while designing a class ?
 
+Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+
 Namaste 🙏
