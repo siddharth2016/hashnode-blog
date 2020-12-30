@@ -10,6 +10,8 @@ It's better to write/draw steps before coding, even if it is not a best design.
 
 Your views on making flowcharts or writing features before an attempt to coding ?
 
+---
+
 Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
 Till next time !
