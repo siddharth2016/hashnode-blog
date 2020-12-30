@@ -15,6 +15,8 @@ These 2 websites are at my top recommendation, whenever someone asks me what is 
 
 Mention your resources, papers, books, videos or site you loved to start your ML journey.
 
+---
+
 Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
 Namaste 🙏
