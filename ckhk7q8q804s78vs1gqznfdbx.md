@@ -10,6 +10,8 @@ All discussions regarding Django Vs Flask can be highlighted with a simple analo
 
 Think about it, discuss with your team and get on using the framework which covers the solution more aptly !
 
+---
+
 Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
 Namaste 🙏
