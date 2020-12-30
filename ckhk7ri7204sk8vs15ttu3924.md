@@ -25,4 +25,6 @@ Link to article:
 
 Did you like the article ? What are your views on it ?
 
+Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+
 Namaste 🙏
