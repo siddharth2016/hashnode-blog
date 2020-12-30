@@ -20,4 +20,6 @@ If we know how to debug a code, then we should just dive into code of such open-
 
 What are your views on different scraping libraries available ? Which one do you prefer or use regularly ?
 
+Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+
 Namaste 🙏
