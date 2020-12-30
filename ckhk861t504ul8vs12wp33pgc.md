@@ -20,6 +20,6 @@ What are your thoughts on this parameter missing from GDP ?
 
 Link to research paper in comments.
 
-
+Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
 Namaste 🙏
