@@ -96,4 +96,6 @@ Github [link](https://github.com/Siddharth2016/Opencv-Python-Computer-Vision/blo
 
 Stack Overflow [link](https://stackoverflow.com/questions/26857829/does-filter2d-in-opencv-really-do-its-job) for filter2D working.
 
+Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+
 Namaste 🙏
