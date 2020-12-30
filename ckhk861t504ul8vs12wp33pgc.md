@@ -20,4 +20,6 @@ What are your thoughts on this parameter missing from GDP ?
 
 Link to research paper in comments.
 
+
+
 Namaste 🙏
