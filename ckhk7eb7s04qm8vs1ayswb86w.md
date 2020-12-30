@@ -21,4 +21,6 @@ Hoping you guys can also join this amazing webinar and interact with some of the
 
 Link in the comments.
 
+Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+
 Namaste 🙏
