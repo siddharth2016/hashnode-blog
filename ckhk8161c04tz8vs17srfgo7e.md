@@ -21,4 +21,6 @@ To get a scalable model, we can look at following points before designing our pr
 
 Your thoughts on Inheritance and Composition ? What are the factors you take into account before proceeding ? Which one do you prefer or use regularly ?
 
+Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+
 Namaste 🙏
