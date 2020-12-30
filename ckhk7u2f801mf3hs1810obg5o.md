@@ -22,4 +22,6 @@ Let me know about your experience with GitHub Actions, which exciting action did
 
 PS: I was just learning GitHub Actions and thought to make something that i would like, say, some random text appearing on my GitHub Profile ? and then i went ahead and made it !! 🙏
 
+Just starting you Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+
 Namaste 🙏
