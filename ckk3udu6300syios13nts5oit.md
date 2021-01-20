@@ -245,7 +245,7 @@ If you can't wait for next part, please visit [this](https://github.com/siddhart
 
 In next part we will see how to launch our game window and how to load these objects in the window.
 
-*Note: There could be delay in next parts as I am working on something more fun and exciting 😉*
+**UPDATE:** Part 2 is released, read [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2).
 
 ---
 
