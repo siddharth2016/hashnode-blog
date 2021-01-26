@@ -247,6 +247,8 @@ In next part we will see how to launch our game window and how to load these obj
 
 **UPDATE:** Part 2 is released, read [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2).
 
+**UPDATE:** Part 3 is released, read [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-3)
+
 ---
 
 Just starting your Open Source Journey ? Don't forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
