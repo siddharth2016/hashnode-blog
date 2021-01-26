@@ -238,7 +238,7 @@ In next part, we will see how to make function to introduce the ability for elem
 
 So, stay tuned !
 
-*Note: There could be delay in next parts as I am working on something more fun and exciting 😉*
+**UPDATE:** Part 3 is released, read [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-3)
 
 ---
 
