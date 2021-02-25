@@ -1,7 +1,5 @@
 ## Making PONGPONG - Game Development using Pyglet - Part 1
 
-# Making PONGPONG - Game Development using Pyglet - Part 1
-
 In this 3 part series, we will be making a game, using python game programming library *[pyglet](https://pypi.org/project/pyglet/)*.
 
 ---
