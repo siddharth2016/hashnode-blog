@@ -68,7 +68,7 @@ At last, I would like to highlight some points to avoid the kind of risk we disc
 
 1. Use the given tech for the right reason.
 2. Use the given tech in right place.
-3. And, do not try to write of human employees in the name of new tech.
+3. And, do not try to write-off human employees in the name of new tech.
 
 ---
 
