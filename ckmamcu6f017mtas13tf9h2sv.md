@@ -155,18 +155,18 @@ Well, not much here, but for me, I have seldom used negative indices to access e
 
 That's it from me, I hope you learnt something new or refreshed some of the unknowns (that's what I like to call them 😁) !
 
-If you were here as one of the followers, then I appreciate you reading this and if you are new here, then follow me for more upcoming on-the-go articles to freshen up your developer brain 🧙‍♂️
+If you were here as one of the followers, then I appreciate you reading this and if you are new here, then follow me for more upcoming on-the-go articles to freshen up your developer's brain 🧙‍♂️
 
-Share it with your friends, python programming beginners or seasonal python professionals !
+Share it with your friends, python programming beginners or seasonal python professionals!
 
 ---
 
-Just starting your Open Source Journey ? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
-Want to make a simple and awesome game from scratch ? Check out [PongPong](https://github.com/siddharth2016/PongPong)
+Want to make a simple and awesome game from scratch? Check out [PongPong](https://github.com/siddharth2016/PongPong)
 
-Want to `++` your GitHub Profile README ? Check out [Quote - README](https://github.com/marketplace/actions/quote-readme)
+Want to `++` your GitHub Profile README? Check out [Quote - README](https://github.com/marketplace/actions/quote-readme)
 
-Till next time !
+Till next time!
 
 Namaste 🙏
