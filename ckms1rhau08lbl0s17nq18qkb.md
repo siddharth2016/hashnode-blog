@@ -40,7 +40,7 @@ print(a, b, c)      # Output: 1 1 1
 
 This is possible because of something called tuple unpacking (not an advanced topic, you will learn that in tuples, if not already, try this [link](https://www.guru99.com/python-tuples-tutorial-comparing-deleting-slicing-keys-unpacking.html)).
 
-We can simply assign multiple values to a variable and it will unpack it as a tuple.
+We can simply assign multiple values to a variable and it will pack it as a tuple.
 
 ```python
 # Assign multiple values to a single variable
