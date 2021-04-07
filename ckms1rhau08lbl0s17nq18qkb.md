@@ -10,7 +10,7 @@ Let's get started!
 
 ### Assignment
 
-Python allows a significant improvement to the assignments of variables. One can simply assign a number of variables with each variable assigned in a single line using the `=` operator.
+Python allows a significant improvement to the assignments of variables. One can simply assign several variables with each variable assigned in a single line using the `=` operator.
 
 ```python
 # Assign variable, 1 line at a time.
@@ -197,7 +197,7 @@ if i == 1 or i == 2 or i == 3:
     # Do something
 
 # Simplified IF
-if i in a:
+if I in a:
     # Do something
 ```
 
@@ -225,6 +225,8 @@ I have published some blog articles where I have tried to lay out more such nuan
 ---
 
 Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
+
+Need inspiration or a different perspective on the Python projects or just out there to explore? Check [Awesome Python Repos](https://github.com/siddharth2016/awesome-python-repos)
 
 Want to make a simple and awesome game from scratch? Check out [PongPong](https://github.com/siddharth2016/PongPong)
 
