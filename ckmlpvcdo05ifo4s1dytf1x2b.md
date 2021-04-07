@@ -80,6 +80,8 @@ Try to ask those 3 points when you are starting something new or modifying given
 
 Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
+Need inspiration or a different perspective on the Python projects or just out there to explore? Check [Awesome Python Repos](https://github.com/siddharth2016/awesome-python-repos)
+
 Want to make a simple and awesome game from scratch? Check out [PongPong](https://github.com/siddharth2016/PongPong)
 
 Want to `++` your GitHub Profile README? Check out [Quote - README](https://github.com/marketplace/actions/quote-readme)
