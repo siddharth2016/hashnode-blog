@@ -1,6 +1,6 @@
 ## A Part of All I Earn, is Mine to Keep - A Non-Tech Non-Dev Blog
 
-Welcome to my 1st Non-Tech Non-Dev Blog, if you are here expecting that I will share some code or best practices or anything related to development or programming, then it is not for you (still you can read it and share it further !)
+Welcome to my 1st Non-Tech Non-Dev Blog.
 
 ---
 
