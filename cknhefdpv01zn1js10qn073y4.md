@@ -79,7 +79,7 @@ plt.show()
 
 This plots points on the x-y plane. `bo` for blue dots and `r*` for red stars.
 
-![matplot.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1618401261561/ueJoRZOKo.png)
+![Screenshot 2021-04-14 at 5.30.34 PM.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1618401694801/G8sMlc6wd.png)
 
 In statistical data visualisation, all you want is to plot histograms and joint distributions of variables. Rather than a histogram, we can get a smooth estimate of the distribution using a kernel density estimation, which Seaborn does with `sns.kdeplot`
 
