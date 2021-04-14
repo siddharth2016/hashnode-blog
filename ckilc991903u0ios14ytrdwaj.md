@@ -107,7 +107,7 @@ If you faced any issues, please comment here or create an issue on [this](https:
 
 If you liked this not-so-useful action, then give it a star ⭐
 
-If you loved this not-so-useful action, then [let's connect](https://blog.codekaro.info/lets-connect) and contribute to make this a little bit useful !
+If you loved this not-so-useful action, then let's connect and contribute to making this a little bit useful!
 
 Just starting your Open Source Journey ? Do not forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source) !
 
