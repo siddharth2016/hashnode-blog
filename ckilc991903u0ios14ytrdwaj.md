@@ -109,9 +109,11 @@ If you liked this not-so-useful action, then give it a star ⭐
 
 If you loved this not-so-useful action, then let's connect and contribute to making this a little bit useful!
 
-Just starting your Open Source Journey ? Do not forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source) !
+- Just starting your Open Source Journey ? Do not forget to check out [Hello Open Source](https://github.com/siddharth2016/hello-open-source) !
 
-Want to make a simple and awesome game from scratch ? Check [PongPong](https://github.com/siddharth2016/PongPong)
+- Need inspiration or a different perspective on the Python projects or just out there to explore? Check [Awesome Python Repos](https://github.com/siddharth2016/awesome-python-repos)
+
+- Want to make a simple and awesome game from scratch ? Check [PongPong](https://github.com/siddharth2016/PongPong)
 
 Till next time !
 
