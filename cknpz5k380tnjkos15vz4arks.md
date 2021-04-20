@@ -184,7 +184,7 @@ cv2.destroyAllWindows()
 
 Well, that's complete our code.
 
-For complete code, please visit [here](https://github.com/siddharth2016/Opencv-Python-Computer-Vision/blob/master/paintApplication.py).
+For complete script, please visit [here](https://github.com/siddharth2016/Opencv-Python-Computer-Vision/blob/master/paintApplication.py).
 
 Now, let's look at the demo.
 
