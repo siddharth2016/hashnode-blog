@@ -54,7 +54,7 @@ Developed by experts working in the Google Brain team, the system is compatible 
 
 This is a library of TypeScript type definitions maintained on GitHub. In this open-source repository, developers can share and keep TypeScript type definitions for JS libraries. It mainly serves as a translator for JS developers to work with TypeScript. Using DefinitelyTyped and its declaration statements, they can discover TypeScript equivalents for existing JS libraries.
 
-Developers can contribute to the repository by adding definitions, testing, and so on. This is an extremely popular page, with thousands of contributors and many times more users.
+Developers can contribute to the repository by adding definitions, testing, and so on. This is an extremely popular page, with thousands of contributors and many times more users. It has more than `33K` stars and `13K` active contributors.
 
 ### [Azure](https://github.com/MicrosoftDocs/azure-docs)
 
