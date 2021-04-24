@@ -239,13 +239,7 @@ Well, so far so good !
 
 If you followed this step-by-step and have some doubts, I would be very happy to get them sorted (maybe I will learn something new 😁). Make sure to drop them in the comments !
 
-If you can't wait for next part, please visit [this](https://github.com/siddharth2016/PongPong) repo to know more about the project code.
-
 In next part we will see how to launch our game window and how to load these objects in the window.
-
-**UPDATE:** Part 2 is released, read [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2).
-
-**UPDATE:** Part 3 is released, read [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-3)
 
 ---
 
