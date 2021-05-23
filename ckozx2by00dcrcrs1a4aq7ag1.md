@@ -8,7 +8,7 @@ Without further ado, let's get started.
 
 ### What Is Scala?
 
-Scala is a programming language just like any other that is available out there but with a lot of sweetness and awesome features that opens our world to functional programming with easy to understand syntax, running on JVM behind the hood, having all functionality that Java language offers with popularity ranging from being used in major FinTech companies to FAANG companies and as one of the major language for data engineering applications.
+Scala is a programming language just like any other that is available out there but with a lot of sweetness and awesome features that opens our world to functional programming with easy to understand syntax, running on JVM under the hood, having all functionality that Java language offers with popularity ranging from being used in major FinTech companies to FAANG companies and as one of the major language for data engineering applications.
 
 Need to know more about what is Scala, visit [here](https://www.scala-lang.org/).
 
