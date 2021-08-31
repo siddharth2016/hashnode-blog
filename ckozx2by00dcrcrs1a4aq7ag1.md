@@ -34,11 +34,11 @@ Well, there are a couple of ways, in which the shortest and easy to follow is:
 
 ### How To Start Working With Scala?
 
-After successful installation and creating a scala project, you would be seeing a nice project structure with `src` folder.
+After successful installation and creating a scala project, you would be seeing a nice project structure with the `src` folder.
 
 We will create a package, inside that package we will continue our work. [What is a package?](https://docs.oracle.com/javase/tutorial/java/concepts/package.html)
 
-To create a package, right-click on `src` folder and select `New | Package` type, then fill in a name, whatever you like, for our case, let's name it `crashcourse`.
+To create a package, right-click on the `src` folder and select `New | Package` type, then fill in a name, whatever you like, for our case, let's name it `crashcourse`.
 
 > ![create_package.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1621697312670/NxpfJgmX3.png)
 > Create New Package
@@ -57,15 +57,15 @@ Well, now we have all we need to get started with some code!
 
 Before moving to object, if you notice the created template have `package crashcourse` at the top, it means that whatever code we are going to write below this, will belong to this package and can be accessed by any code file within the same package or can be imported using `import crashcourse._` in some other package. [How to do imports in scala?](https://docs.scala-lang.org/tour/packages-and-imports.html)
 
-Now, what is object in scala?
+Now, what is an object in scala?
 
-Object is a class that has exactly one instance, it means it already is an instance with a defined class structure. What is the defined class structure for an object type? It is everything we write inside scala object.
+The object is a class that has exactly one instance, it means it already is an instance with a defined class structure. What is the defined class structure for an object type? It is everything we write inside scala object.
 
 Scala objects are singleton, which means if we say we have an object named `BeginnersCrashCourse` then it is an instance that is a singleton in nature and whenever I am accessing it in the same executing program then its behaviour is going to be the same at every place, containing same values, methods or functions.
 
 Treat an object as something that has static class level functionality.
 
-How to write an object? Simple, just use `object` keyword before writing an object, like below:
+How to write an object? Simple, just use the `object` keyword before writing an object, like below:
 
 ```scala
 package crashcourse
@@ -116,7 +116,7 @@ The key difference between the 2 variables is that `var1` is mutable and `var2` 
 
 `val` - values and `var` - variables, the name suggest itself that `val` will be a definite value whereas `var` are variables.
 
-We can also use the semicolon `;` at end of each line, but they are not needed. We can also define types to the variables, but for the above case, compiler does this work for us, although it is best to explicitly define the type of each value we use in our code. So below code is similar to the above:
+We can also use the semicolon `;` at end of each line, but they are not needed. We can also define types to the variables, but for the above case, the compiler does this work for us, although it is best to explicitly define the type of each value we use in our code. So below code is similar to the above:
 
 ```scala
 package crashcourse
@@ -150,7 +150,7 @@ object BeginnersCrashCourse extends App {
 
 More on scala types, [here](https://docs.scala-lang.org/tour/unified-types.html).
 
-Now, let's move on to defining methods in scala. It can be done so using `def` keyword, methods can take arguments passed to them as parameters while calling them. We can define empty methods as well, those that take nothing.
+Now, let's move on to defining methods in scala. It can be done so using the `def` keyword, methods can take arguments passed to them as parameters while calling them. We can define empty methods as well, those that take nothing.
 
 Let's define some methods and call them:
 
@@ -183,9 +183,9 @@ object BeginnersCrashCourse extends App {
 }
 ```
 
-There are lot of things happening here, let's break it down for each method:
+There are a lot of things happening here, let's break it down for each method:
 
-**1.** We define a method using `def` keyword, our first method named `greetings` takes a single parameter named `name` which of type `String` and the method returns a value of type `String` denoted by `: String` after `greetings(name: String)`, and this method evaluates to `"Hello " + name` with replacing with whatever name value we pass. We can print it to the console using `println` method that conveniently puts a new line after printing the passed value to the console.
+**1.** We define a method using the `def` keyword, our first method named `greetings` takes a single parameter named `name` which of type `String` and the method returns a value of type `String` denoted by `: String` after `greetings(name: String)`, and this method evaluates to `"Hello " + name` with replacing with whatever name value we pass. We can print it to the console using the `println` method that conveniently puts a new line after printing the passed value to the console.
 
 > A little detour before we move on to the next methods.
 
@@ -233,13 +233,13 @@ More on methods in scala, visit [here](https://docs.scala-lang.org/overviews/sca
 
 ### Wrap Up
 
-Well, that warps up part 1 of this crash course.
+Well, that wraps up part 1 of this crash course.
 
 In the next part we will be discussing classes, more on objects, companions, case classes and much more related to object-oriented programming in Scala.
 
-Make sure to follow me to get the update for the next part or subscribe so that you never miss my upcoming blog articles ranging from Python Programming to Computer Vision to Scala Programming.
-
 ---
+
+- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](https://blog.codekaro.info/series/python) to [Computer Vision](https://blog.codekaro.info/series/computer-vision) to [Scala](https://blog.codekaro.info/series/scala).
 
 - Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
