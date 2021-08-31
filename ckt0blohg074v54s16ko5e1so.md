@@ -1,7 +1,5 @@
 ## Scala For Beginners - Crash Course - Part 2
 
-# Scala For Beginners - Crash Course - Part 2
-
 Welcome to the 2<sup>nd</sup> part of scala beginners crash course, here we will go through the object-oriented way of scala programming language and concepts like anonymous class, case classes and traits!
 
 It will be a no-nonsense, to the point kind of article (like [part 1](https://blog.codekaro.info/scala-for-beginners-crash-course-part-1)) with all necessary links wherever needed.
