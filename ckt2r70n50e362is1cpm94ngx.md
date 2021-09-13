@@ -119,7 +119,7 @@ Functions with multiple parameter list also act as curries:
 
 Well, that wraps up part 3 of this crash course.
 
-I highly recommend you to go through the books below to get a better and deeper understanding to functional programming:
+I highly recommend you to go through the books below to get a better and deeper understanding of functional programming:
 
 <a href="https://www.amazon.in/Functional-Thinking-Paradigm-Over-Syntax-ebook/dp/B00LEX6SP8?crid=2I35UGEUXLTHJ&dchild=1&keywords=functional+thinking&qid=1630574749&sprefix=functional+think%2Caps%2C317&sr=8-1&linkCode=li2&tag=chandrajidev-21&linkId=576c0c2c9e91856ea455b7baa167cbe1&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LEX6SP8&Format=_SL160_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=chandrajidev-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=chandrajidev-21&language=en_IN&l=li2&o=31&a=B00LEX6SP8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
