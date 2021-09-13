@@ -104,11 +104,10 @@ Take it as a challenge or homework, explore advanced pattern matching, how you c
 
 You can check these books to get more insights on these topics:
 
-<a href="https://www.amazon.in/Scala-Impatient-2ed-Cay-S-Horstmann/dp/9332586837?dchild=1&keywords=scala&qid=1630921860&s=books&sr=1-2&linkCode=li3&tag=chandrajidev-21&linkId=dadc299784acdf3e7ce5d798931ee070&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=9332586837&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=chandrajidev-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=chandrajidev-21&language=en_IN&l=li3&o=31&a=9332586837" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="https://www.amazon.in/Functional-Programming-Scala-Paul-Chiusano/dp/1617290653?dchild=1&keywords=scala&qid=1630921860&s=books&sr=1-3&linkCode=li3&tag=chandrajidev-21&linkId=c28d5679e6e0b8a9205d9ffe7c56ef30&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=1617290653&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=chandrajidev-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=chandrajidev-21&language=en_IN&l=li3&o=31&a=1617290653" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-<a href="https://www.amazon.in/Programming-Scala-Scalability-Functional-Grayscale/dp/9391043453?dchild=1&keywords=scala&qid=1630921860&s=books&sr=1-6&linkCode=li3&tag=chandrajidev-21&linkId=b74b2b29262a03715ae63df3768c09dd&language=en_IN&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-in.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=9391043453&Format=_SL250_&ID=AsinImage&MarketPlace=IN&ServiceVersion=20070822&WS=1&tag=chandrajidev-21&language=en_IN" ></a><img src="https://ir-in.amazon-adsystem.com/e/ir?t=chandrajidev-21&language=en_IN&l=li3&o=31&a=9391043453" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+* [Scala For The Impatient](https://amzn.to/3C4rZ8a)
+* [Scala Programming Projects](https://amzn.to/3tAluXH)
+* [Functional Programming in Scala](https://amzn.to/3hnZYAw)
+* [Programming Scala](https://amzn.to/3k66Lk1)
 
 In the next and last part of this crash course, we will discuss the collections available in scala and most important of all, the map, flatmap and filter methods in scala.
 
