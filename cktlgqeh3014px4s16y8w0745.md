@@ -1,7 +1,5 @@
 ## Preptember - Prepare For HacktoberFest 2021
 
-# Preptember - Prepare For HacktoberFest 2021
-
 Hey everyone, HacktoberFest is around the corner (just 15 days away) and for all those who are searching for repositories to contribute to this October, worry not, I have gathered a list of repositories best suited for beginners in open source.
 
 ---
