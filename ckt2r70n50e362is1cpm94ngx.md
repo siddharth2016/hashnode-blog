@@ -2,7 +2,7 @@
 
 Welcome to the 3<sup>rd</sup> part of the scala beginners crash course, here we will go through the functional way of scala programming language and concepts like higher-order functions, curries and anonymous functions!
 
-It will be a no-nonsense, to the point kind of article (like [part 1](https://blog.codekaro.info/scala-for-beginners-crash-course-part-1) and [part 2](https://blog.codekaro.info/scala-for-beginners-crash-course-part-2)) with all necessary links wherever needed.
+It will be a no-nonsense, to the point kind of article (like [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1) and [part 2](https://blog.codekaro.info/scala-for-beginners-crash-course-part-2)) with all necessary links wherever needed.
 
 Without further ado, let's get started.
 
@@ -22,13 +22,13 @@ Functional programming (FP) is based on a simple premise with far-reaching impli
 * Reading from or writing to a file.
 * Drawing on the screen.
 
-We discussed side-effects also in [part 1](https://blog.codekaro.info/scala-for-beginners-crash-course-part-1).
+We discussed side-effects also in [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1).
 
 > Note: Functional programming is a restriction on how we write programs, but not on what programs we can express.
 
 ### Before We Start
 
-Before we start coding out, first create a new object in the `crashcourse` package (please go through [part 1](https://blog.codekaro.info/scala-for-beginners-crash-course-part-1) for more information on creating packages and objects).
+Before we start coding out, first create a new object in the `crashcourse` package (please go through [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1) for more information on creating packages and objects).
 
 Let's name it `FunctionalProgramming` like below:
 
