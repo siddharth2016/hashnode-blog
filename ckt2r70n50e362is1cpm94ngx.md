@@ -2,7 +2,7 @@
 
 Welcome to the 3<sup>rd</sup> part of the scala beginners crash course, here we will go through the functional way of scala programming language and concepts like higher-order functions, curries and anonymous functions!
 
-It will be a no-nonsense, to the point kind of article (like [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1) and [part 2](https://blog.codekaro.info/scala-for-beginners-crash-course-part-2)) with all necessary links wherever needed.
+It will be a no-nonsense, to the point kind of article (like [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1) and [part 2](https://chandraji.dev/scala-for-beginners-crash-course-part-2)) with all necessary links wherever needed.
 
 Without further ado, let's get started.
 
