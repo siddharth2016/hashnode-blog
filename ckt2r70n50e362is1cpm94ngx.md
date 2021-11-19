@@ -131,7 +131,7 @@ In the next part, we will discuss some topics specific to scala, like options, h
 
 ---
 
-- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](https://blog.codekaro.info/series/python) to [Computer Vision](https://blog.codekaro.info/series/computer-vision) to [Scala](https://blog.codekaro.info/series/scala).
+- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](https://chandraji.dev/series/python) to [Computer Vision](https://chandraji.dev/series/computer-vision) to [Scala](https://chandraji.dev/series/scala).
 
 - Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
