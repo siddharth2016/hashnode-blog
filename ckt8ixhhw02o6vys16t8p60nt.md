@@ -2,7 +2,7 @@
 
 Welcome to the 4<sup>th</sup> part of the scala beginners crash course, here we will go through the concepts like options, exception handling and pattern matching in the scala programming language. This will be a short article, so if you need much more in-depth information you can check out the recommended books at the end of this article.
 
-It will be a no-nonsense, to the point kind of article (like [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1), [part 2](https://blog.codekaro.info/scala-for-beginners-crash-course-part-2) and [part 3](https://blog.codekaro.info/scala-for-beginners-crash-course-part-3)) with all the necessary links wherever needed.
+It will be a no-nonsense, to the point kind of article (like [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1), [part 2](https://chandraji.dev/scala-for-beginners-crash-course-part-2) and [part 3](https://chandraji.dev/scala-for-beginners-crash-course-part-3)) with all the necessary links wherever needed.
 
 Without further ado, let's get started.
 
