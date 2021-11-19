@@ -2,7 +2,7 @@
 
 Welcome to the 2<sup>nd</sup> part of scala beginners crash course, here we will go through the object-oriented way of scala programming language and concepts like anonymous class, case classes and traits!
 
-It will be a no-nonsense, to the point kind of article (like [part 1](https://blog.codekaro.info/scala-for-beginners-crash-course-part-1)) with all necessary links wherever needed.
+It will be a no-nonsense, to the point kind of article (like [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1)) with all necessary links wherever needed.
 
 Without further ado, let's get started.
 
@@ -10,7 +10,7 @@ Without further ado, let's get started.
 
 ### Before We Start
 
-Before we start coding out, first create a new object in `crashcourse` package (please go through [part 1](https://blog.codekaro.info/scala-for-beginners-crash-course-part-1) for more information on creating packages and objects).
+Before we start coding out, first create a new object in `crashcourse` package (please go through [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1) for more information on creating packages and objects).
 
 Let's name it `ClassAndObject` like below:
 
