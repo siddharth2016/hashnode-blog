@@ -8,7 +8,7 @@ We shall discuss the Hadoop framework, the Spark analytics engine and the Kafka 
 
 ---
 
-### Big Data Hard To Handle?
+### Is Big Data Hard To Handle?
 
 - Almost 90% of the Big Data we produce today is unstructured and there are no predefined models that it adheres to. And there is no quick and easy way to access and analyse unstructured data.
 
