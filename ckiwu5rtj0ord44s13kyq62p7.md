@@ -85,7 +85,7 @@ QUOTES_URL = "https://gotechug.com/interesting-facts-about-computers-you-didnt-k
 - `QUOTES_FILE_PATH` file path, to be used further to store data.
 - `QUOTES_URL` url to webpage we want to scrape.
 
-Why name the variables as `QUOTES` ? I had another script to scrape some great quotes and reused that same for scraping awesome facts. Need to know more about scraping quotes ? Visit [this](https://blog.codekaro.info/scraping-web-inspiring-quotes) link.
+Why name the variables as `QUOTES` ? I had another script to scrape some great quotes and reused that same for scraping awesome facts. Need to know more about scraping quotes ? Visit [this](scraping-web-inspiring-quotes) link.
 
 ### Create BeautifulSoup Object
 
