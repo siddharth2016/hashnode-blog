@@ -18,9 +18,9 @@ I really loved writing my experience and how I approached the problem, hoping yo
 
 Go through the following parts to get familiar with pyglet game development style:
 
-1. [Making PONGPONG - Game Development using Pyglet - Part 1](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1)
-2. [Making PONGPONG - Game Development using Pyglet - Part 2](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2)
-3. [Making PONGPONG - Game Development using Pyglet - Part 3](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-3)
+1. [Making PONGPONG - Game Development using Pyglet - Part 1](making-pongpong-game-development-using-pyglet-part-1)
+2. [Making PONGPONG - Game Development using Pyglet - Part 2](making-pongpong-game-development-using-pyglet-part-2)
+3. [Making PONGPONG - Game Development using Pyglet - Part 3](making-pongpong-game-development-using-pyglet-part-3)
 
 ---
 
