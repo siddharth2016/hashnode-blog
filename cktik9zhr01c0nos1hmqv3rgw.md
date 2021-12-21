@@ -2,7 +2,7 @@
 
 Welcome to the 5<sup>th</sup> and last part of the Scala beginners crash course, here we will go through the concepts like collections, sequences and map, flatmap, filter in the Scala programming language. This will be a short article, so if you need much more in-depth information you can check out the recommended books at the end of this article.
 
-It will be a no-nonsense, to the point kind of article (like [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1), [part 2](https://chandraji.dev/scala-for-beginners-crash-course-part-2), [part 3](https://chandraji.dev/scala-for-beginners-crash-course-part-3) and [part 4](https://chandraji.dev/scala-for-beginners-crash-course-part-4)) with all the necessary links wherever needed.
+It will be a no-nonsense, to the point kind of article (like [part 1](scala-for-beginners-crash-course-part-1), [part 2](scala-for-beginners-crash-course-part-2), [part 3](scala-for-beginners-crash-course-part-3) and [part 4](scala-for-beginners-crash-course-part-4)) with all the necessary links wherever needed.
 
 Without any further ado, let's get started.
 
@@ -10,7 +10,7 @@ Without any further ado, let's get started.
 
 ### Before We Start
 
-Before we start coding out, first create a new object in the `crashcourse` package (please go through [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1) for more information on creating packages and objects).
+Before we start coding out, first create a new object in the `crashcourse` package (please go through [part 1](scala-for-beginners-crash-course-part-1) for more information on creating packages and objects).
 
 Let's name it `Collections` like below:
 
@@ -105,7 +105,7 @@ More on Scala collections can be found [here](https://docs.scala-lang.org/overvi
 
 ### map, flatMap, filter and for
 
-Finally, on the most important part of functional programming, that would become the daily need of a Scala programmer. I wanted to include these in the previous [part](https://chandraji.dev/scala-for-beginners-crash-course-part-4) but to show how these work I needed to show collections in scala first, now that we know enough about collections, let's move on to these functions.
+Finally, on the most important part of functional programming, that would become the daily need of a Scala programmer. I wanted to include these in the previous [part](scala-for-beginners-crash-course-part-4) but to show how these work I needed to show collections in scala first, now that we know enough about collections, let's move on to these functions.
 
 > Note: For the sake of examples, I will be showing these operations on the `List` sequence, you can try these on other collections as well.
 
@@ -146,7 +146,7 @@ To keep in touch, you can follow me on here or subscribe to get the updates of t
 
 ---
 
-- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](https://chandraji.dev/series/python) to [Computer Vision](https://chandraji.dev/series/computer-vision) to [Scala](https://chandraji.dev/series/scala).
+- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](series/python) to [Computer Vision](series/computer-vision) to [Scala](series/scala).
 
 - Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
