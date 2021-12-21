@@ -1,6 +1,6 @@
 ## Update Image - README, See random image on your GitHub Profile README
 
-Yep, you read it right ! There is a GitHub Action that lets you put a random image (from a collection of yours) on your GitHub Profile README. Here I am again, with another no-so-useful GitHub Action ! Not saw the previous Action ? Check it out [here](https://blog.codekaro.info/quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
+Yep, you read it right ! There is a GitHub Action that lets you put a random image (from a collection of yours) on your GitHub Profile README. Here I am again, with another no-so-useful GitHub Action ! Not saw the previous Action ? Check it out [here](quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
 
 ---
 
