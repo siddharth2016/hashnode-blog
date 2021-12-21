@@ -20,7 +20,7 @@ Below points summarize why Python is the right choice for ML:
 
 3. For writing various types of code, the ability of the programming language to handle various data types is also important. Python not only supports the primitive data types like `Char`, `Bool`, `Int` and `Float` like C/C++ and Java but also additional data types like `None`, `Complex`, `Number`, `Dict` and `Tuple`, which makes it more flexible to implement complex algorithms using Python code.
 
-4. Cross-compilation is another great feature of Python and any code written in it can be compiled to the C/C++ programming language. This can be done using CPython, which is a reference implementation of Python and can compile Python-like code to C/C++. [Why CPython?](https://blog.codekaro.info/cpython-and-more)
+4. Cross-compilation is another great feature of Python and any code written in it can be compiled to the C/C++ programming language. This can be done using CPython, which is a reference implementation of Python and can compile Python-like code to C/C++. [Why CPython?](cpython-and-more)
 
 5. Another reason for using Python for ML is the vast collection of libraries it offers that are designed for ML tasks. These libraries include Numpy, Scipy, Scikit-learn, Theano, Tensorflow, Keras, PyTorch, Pandas and Matplotlib. Such libraries make it possible to implement ML algorithms with simplicity and convenience.
 
