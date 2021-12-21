@@ -1,6 +1,6 @@
 ## My Top 5 Python Libraries, I used in 2020 !
 
-So today marks the end of 2020, with less than 24hrs left for 1st January 2021, when I look at what I developed and learned in the past 1 year, I came to draw my top 5 python libraries that I learned and used to make some projects !
+So today marks the end of 2020, with less than 24hrs left for 1st January 2021, when I look at what I developed and learned in the past 1 year, I came to draw my top 5 python libraries that I learned and used to make some projects!
 
 ---
 
@@ -18,7 +18,7 @@ The **requests** library is the de facto standard for making HTTP requests in Py
 
 I used this library while developing a not-so-useful GitHub Action, [Quote-Readme](https://github.com/marketplace/actions/quote-readme).
 
-Don't forget to check a simple, easy to follow tutorial [here](https://blog.codekaro.info/quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
+Don't forget to check a simple, easy to follow tutorial [here](quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
 
 ## PyGithub
 
@@ -32,21 +32,21 @@ I used this library to write my GitHub Action's update readme function. I used t
 
 Beautiful Soup (or **bs4**) is a Python library for pulling data out of HTML and XML files. It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree. It commonly saves programmers hours or days of work.
 
-One of the most important library if you want to do Web Scraping. I am using it for several projects, either personal or company related. You can not miss to check this out.
+One of the most important libraries if you want to do Web Scraping. I am using it for several projects, either personal or company related. You can not miss checking this out.
 
-If you feel you know the basics of it and want something more *spicy* then you should definitely checkout [MechanicalSoup](https://mechanicalsoup.readthedocs.io/en/stable/).
+If you feel you know the basics of it and want something more *spicy* then you should definitely check out [MechanicalSoup](https://mechanicalsoup.readthedocs.io/en/stable/).
 
 Don't forget to checkout, easy to use and simple to follow tutorials on scraping.
 
-[Scraping Web - Inspiring Quotes](https://blog.codekaro.info/scraping-web-inspiring-quotes)
+[Scraping Web - Inspiring Quotes](scraping-web-inspiring-quotes)
 
-[Scraping Web - Awesome Facts](https://blog.codekaro.info/scraping-web-awesome-facts)
+[Scraping Web - Awesome Facts](scraping-web-awesome-facts)
 
-Both of these follow the same structure for explanation, so they should be pretty easy to follow, if any concern with them, please let me know. [Let's Connect](https://blog.codekaro.info/lets-connect)
+Both of these follow the same structure for the explanation, so they should be pretty easy to follow, if any concerns with them, please let me know.
 
 ## OpenCV
 
-OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
+OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in commercial products. Being a BSD-licensed product, OpenCV makes it easy for businesses to utilize and modify the code.
 
 The library has more than 2500 optimized algorithms, which includes a comprehensive set of both classic and state-of-the-art computer vision and machine learning algorithms. 
 
