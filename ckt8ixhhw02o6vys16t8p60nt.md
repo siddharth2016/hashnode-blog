@@ -2,7 +2,7 @@
 
 Welcome to the 4<sup>th</sup> part of the scala beginners crash course, here we will go through the concepts like options, exception handling and pattern matching in the scala programming language. This will be a short article, so if you need much more in-depth information you can check out the recommended books at the end of this article.
 
-It will be a no-nonsense, to the point kind of article (like [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1), [part 2](https://chandraji.dev/scala-for-beginners-crash-course-part-2) and [part 3](https://chandraji.dev/scala-for-beginners-crash-course-part-3)) with all the necessary links wherever needed.
+It will be a no-nonsense, to the point kind of article (like [part 1](scala-for-beginners-crash-course-part-1), [part 2](scala-for-beginners-crash-course-part-2) and [part 3](scala-for-beginners-crash-course-part-3)) with all the necessary links wherever needed.
 
 Without further ado, let's get started.
 
@@ -10,7 +10,7 @@ Without further ado, let's get started.
 
 ### Before We Start
 
-Before we start coding out, first create a new object in the `crashcourse` package (please go through [part 1](https://chandraji.dev/scala-for-beginners-crash-course-part-1) for more information on creating packages and objects).
+Before we start coding out, first create a new object in the `crashcourse` package (please go through [part 1](scala-for-beginners-crash-course-part-1) for more information on creating packages and objects).
 
 Let's name it `OptionErrorPattern` like below:
 
@@ -113,7 +113,7 @@ In the next and last part of this crash course, we will discuss the collections 
 
 ---
 
-- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](https://chandraji.dev/series/python) to [Computer Vision](https://chandraji.dev/series/computer-vision) to [Scala](https://chandraji.dev/series/scala).
+- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](series/python) to [Computer Vision](series/computer-vision) to [Scala](series/scala).
 
 - Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
