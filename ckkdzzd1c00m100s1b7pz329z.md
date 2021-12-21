@@ -2,9 +2,9 @@
 
 In this 3 part series, we will be making a game, using python game programming library *[pyglet](https://pypi.org/project/pyglet/)*.
 
-*Check out 1st Part [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1).*
+*Check out 1st Part [here](making-pongpong-game-development-using-pyglet-part-1).*
 
-*Check out 2nd Part [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2).*
+*Check out 2nd Part [here](making-pongpong-game-development-using-pyglet-part-2).*
 
 ---
 
@@ -62,7 +62,7 @@ if __name__ == '__main__':
 
 Breakdown of code:
 
-- Lets look at the main condition first, here we have added one new statement compared to last [part](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-2), `pyglet.clock.schedule_interval(update, 1/120.0)`, this calls `schedule_interval` that takes 2 parameters, one is function name and another is time in seconds. `schedule_interval` of `clock` module calls passed function (1st parameter) in every `n` seconds (2nd parameter). Passed function takes 1 argument, that would be the time in seconds or differential time `dt` that is equivalent to 2nd parameter of `schedule_interval`.
+- Lets look at the main condition first, here we have added one new statement compared to last [part](making-pongpong-game-development-using-pyglet-part-2), `pyglet.clock.schedule_interval(update, 1/120.0)`, this calls `schedule_interval` that takes 2 parameters, one is function name and another is time in seconds. `schedule_interval` of `clock` module calls passed function (1st parameter) in every `n` seconds (2nd parameter). Passed function takes 1 argument, that would be the time in seconds or differential time `dt` that is equivalent to 2nd parameter of `schedule_interval`.
 - `pyglet.clock.schedule_interval(update, 1/120.0)` here `update` function is called in every 1/120 seconds, that is, we are going to see 120 frames per second (don't worry, the updation of objects are very minimal in each frame so 120 FPS is doable here).
 
 Lets move on to the `update` function.
@@ -93,7 +93,7 @@ Now, lets explore the update method of paddle class and ball class.
 
 ### Paddle Update
 
-Again, lets have a look at code first (the method is inside `Paddle` class, check [part 1](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1) for this class definition):
+Again, lets have a look at code first (the method is inside `Paddle` class, check [part 1](making-pongpong-game-development-using-pyglet-part-1) for this class definition):
 
 ```python
 # ./PongPong/pong/paddle.py
@@ -123,7 +123,7 @@ Again, lets have a look at code first (the method is inside `Paddle` class, chec
 - `newlx = self.x + self.acc_left` it defines the position of paddle (bottom-left coordinate) whenever left arrow key is clicked. `newlx` contains addition of current x-coordinate and number of points it would move when we click left arrow key.
 - `newrx = self.x + self.acc_right` it defines the position of paddle (bottom-left coordinate) whenever right arrow key is clicked. `newrx` contains addition of current x-coordinate and number of points it would move when we click right arrow key.
 - We have not assigned the new x-coordinate yet, we just computed different results for each action.
-- We then check for actual key press event if it has occurred or not. To catch the event we can use key handler dictionary we got while initialising the paddle class (see [part 1](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1)).
+- We then check for actual key press event if it has occurred or not. To catch the event we can use key handler dictionary we got while initialising the paddle class (see [part 1](making-pongpong-game-development-using-pyglet-part-1)).
 - If left arrow key is pressed then `self.key_handler[key.LEFT]` will return `true` or `1` to let us know that left arrow key event has occurred.
 - If right arrow key is pressed then `self.key_handler[key.RIGHT]` will return `true` or `1` to let us know that right arrow key event has occurred.
 - Then, if one of the conditions got true, we assign x-coordinate to the new values we computed earlier. If left key event then `self.x` is assigned to `newlx` or if right key event then `self.x` is assigned to `newrx`.
@@ -140,7 +140,7 @@ Lets move on to ball class update method !
 
 ### Ball Update
 
-Again, lets have a look at code first (the method is inside `BallObject` class, check [part 1](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1) for this class definition):
+Again, lets have a look at code first (the method is inside `BallObject` class, check [part 1](making-pongpong-game-development-using-pyglet-part-1) for this class definition):
 
 ```python
 # ./PongPong/pong/ball.py
@@ -205,7 +205,7 @@ Well then, that was it from me (for now 😉) !
 
 Currently working on couple of projects that I intend to complete by year end, its going to be amazing !
 
-Would love to connect with you on [GitHub](https://github.com/siddharth2016), [LinkedIn](https://www.linkedin.com/in/siddharth-chandra1/) and [Twitter](https://twitter.com/CodeKaro_) 🤝
+Would love to connect with you on [GitHub](https://github.com/siddharth2016), [LinkedIn](https://www.linkedin.com/in/siddharth-chandra1/) and [Twitter](https://twitter.com/chandrajidev) 🤝
 
 ---
 
