@@ -4,7 +4,7 @@ We have been making slideshows for most of our college/office presentations to l
 
 It could be a pass time activity or something new to learn or just to show off your friends or juniors, so without any further ado, let's get started!
 
-> *Note: If you do not have OpenCV installed, I suggest you visit [here](https://blog.codekaro.info/lets-draw-opencv-logo-using-opencv) and check **Prerequisites** steps on the process of installation.*
+> *Note: If you do not have OpenCV installed, I suggest you visit [here](lets-draw-opencv-logo-using-opencv) and check **Prerequisites** steps on the process of installation.*
 
 ---
 
