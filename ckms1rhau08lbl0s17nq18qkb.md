@@ -218,9 +218,9 @@ There are more nuances to the tricks python offers, this blog may not be enough 
 
 I have published some blog articles where I have tried to lay out more such nuances, please go through them to get a better understanding of asterisks and other things python has to offer.
 
-[Python Asterisks](https://blog.codekaro.info/python-asterisks)
+[Python Asterisks](python-asterisks)
 
-[Let's Talk Python - Some of the Unknown 👤](https://blog.codekaro.info/lets-talk-python-some-of-the-unknown)
+[Let's Talk Python - Some of the Unknown 👤](lets-talk-python-some-of-the-unknown)
 
 ---
 
