@@ -212,7 +212,7 @@ For Scala:
 
 ---
 
-- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](https://chandraji.dev/series/python) to [Computer Vision](https://chandraji.dev/series/computer-vision) to [Scala](https://chandraji.dev/series/scala).
+- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](series/python) to [Computer Vision](series/computer-vision) to [Scala](series/scala).
 
 - Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
