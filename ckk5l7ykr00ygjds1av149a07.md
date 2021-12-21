@@ -2,7 +2,7 @@
 
 In this 3 part series, we will be making a game, using python game programming library *[pyglet](https://pypi.org/project/pyglet/)*.
 
-*Check out 1st Part [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-1).*
+*Check out 1st Part [here](making-pongpong-game-development-using-pyglet-part-1).*
 
 ---
 
@@ -238,7 +238,7 @@ In next part, we will see how to make function to introduce the ability for elem
 
 So, stay tuned !
 
-**UPDATE:** Part 3 is released, read [here](https://blog.codekaro.info/making-pongpong-game-development-using-pyglet-part-3)
+**UPDATE:** Part 3 is released, read [here](making-pongpong-game-development-using-pyglet-part-3)
 
 ---
 
