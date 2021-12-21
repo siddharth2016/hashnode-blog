@@ -6,7 +6,7 @@ Static code analysis is done on the source code against a set of coding rules, w
 
 Static code analysis makes code secure, maintainable and reliable and saves the time wasted on writing duplicated code. Code quality check is a mandatory stage in an application's life cycle to save the money and time of all the stakeholders.
 
-Static code analysis should be started early in the development phase, and at least before the software testing phase. It is also an important part of continuous integration and DevOps practices. [Why Do DevOps?](https://blog.codekaro.info/devops-devops-devops)
+Static code analysis should be started early in the development phase, and at least before the software testing phase. It is also an important part of continuous integration and DevOps practices. [Why Do DevOps?](devops-devops-devops)
 
 There are multiple benefits of using static code analysis if you maintain and configure standards. The following could be counted as benefits it provides:
 
