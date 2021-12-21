@@ -43,7 +43,7 @@ Successfully installed Pillow-8.2.0 beautifulsoup4-4.9.3 certifi-2020.12.5 chard
 $
 ```
 
-As we can see, this library depends on a lot of other libraries and is not a pure library like `pytube` discussed [here](https://blog.codekaro.info/download-youtube-videos-using-python-your-own-youtube-downloader).
+As we can see, this library depends on a lot of other libraries and is not a pure library like `pytube` discussed [here](download-youtube-videos-using-python-your-own-youtube-downloader).
 
 ### Advantages
 
