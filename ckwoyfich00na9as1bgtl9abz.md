@@ -40,7 +40,7 @@ A Hadoop environment is constrained to the number of resources it has, namely, C
 
 #### Spark
 
-While HDFS, MapReduce and YARN are the three major defining components of Hadoop, the Hadoop ecosystem has more tools to offer when it comes to Big Data processing, one such tool is Apache Spark. Spark is one of the few tools in the industry that combines Big Data analytics tools with Machine Learning and AI. Spark is 100 times faster than MapReduce in processing data. Spark computations are done in memory itself, it has the ability to perform both batch processing real-time processing of data. Spark is also comparatively lightweight as most of it is written in [Scala](https://chandraji.dev/series/scala).
+While HDFS, MapReduce and YARN are the three major defining components of Hadoop, the Hadoop ecosystem has more tools to offer when it comes to Big Data processing, one such tool is Apache Spark. Spark is one of the few tools in the industry that combines Big Data analytics tools with Machine Learning and AI. Spark is 100 times faster than MapReduce in processing data. Spark computations are done in memory itself, it has the ability to perform both batch processing real-time processing of data. Spark is also comparatively lightweight as most of it is written in [Scala](series/scala).
 
 Following are the Spark components:
 
@@ -78,7 +78,7 @@ Books to check out more on Big Data Engineering:
 
 ---
 
-- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](https://chandraji.dev/series/python) to [Computer Vision](https://chandraji.dev/series/computer-vision) to [Scala](https://chandraji.dev/series/scala).
+- Make sure to follow me to get regular updates or subscribe so that you never miss my upcoming articles, ranging from [Python](series/python) to [Computer Vision](series/computer-vision) to [Scala](series/scala).
 
 - Just starting your Open Source Journey? Don't forget to check [Hello Open Source](https://github.com/siddharth2016/hello-open-source)
 
