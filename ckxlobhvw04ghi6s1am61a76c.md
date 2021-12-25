@@ -1,4 +1,4 @@
-## Blockchain Fundamentals, Blockchain App Basics, Cryptocurrencies and Open Source
+## Blockchain Fundamentals, Cryptocurrencies and Open Source
 
 Welcome to another article on miscellaneous topics, where you dive into witty thoughts, awesome technologies and most of all, a fun and informative read. In this article, you will get to know about blockchain fundamentals, cryptocurrencies, the basics of building a blockchain app and how opensource is helping the blockchain industry.
 
