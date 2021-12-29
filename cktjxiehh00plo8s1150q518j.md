@@ -135,7 +135,7 @@ def someMethod() = {
 }
 ```
 
-To define functions in Scala, we can use `Function` objects or their respective syntactic sugars. To know more about functions and functional programming in Scala, do check [this](https://blog.codekaro.info/scala-for-beginners-crash-course-part-3).
+To define functions in Scala, we can use `Function` objects or their respective syntactic sugars. To know more about functions and functional programming in Scala, do check [this](scala-for-beginners-crash-course-part-3).
 
 ### How To Define Classes and Objects?
 
@@ -170,7 +170,7 @@ Object Student
 val aParticularStudent = Student
 ```
 
-To know more about classes and objects in Scala, I recommend checking out [this](https://blog.codekaro.info/scala-for-beginners-crash-course-part-2) article.
+To know more about classes and objects in Scala, I recommend checking out [this](scala-for-beginners-crash-course-part-2) article.
 
 ### Miscellaneous
 
