@@ -16,7 +16,7 @@ So, Java is almost a complete Object-Oriented Programming (OOP) language and as 
 
 If you don't know, almost everything that Python offers is actually an object of some type behind the scenes. It is abstracting it all out so that we write less code and can focus on delivering fast. But, it comes at a cost of speed (which now with many enhancements is improving).
 
-##### Note: You can start learning Scala to write less code and be as fast as Java [here](series/scala).
+>Note: You can start learning Scala to write less code and be as fast as Java [here](series/scala).
 
 So, before starting to learn Java, you should know that classes will be defined, objects will be created, methods will be called and all will be in accordance with OOP, and you will learn OOP either as a beginner or as a professional from the get-go through Java.
 
