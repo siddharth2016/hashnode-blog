@@ -1,4 +1,4 @@
-## A Part of All I Earn, is Mine to Keep - A Non-Tech Non-Dev Blog
+## A Part of All I Earn, is Mine to Keep
 
 Have you ever wondered how rich people got rich? How do they manage their finances? Who were/are their advisers when it comes to managing money?
 
