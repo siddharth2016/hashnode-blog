@@ -2,4 +2,4 @@
 
 My blogs on Hashnode!
 
-[Siddharth Chandra](chandraji)
+[Siddharth Chandra](chandraji.dev)
