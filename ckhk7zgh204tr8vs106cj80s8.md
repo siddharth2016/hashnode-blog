@@ -1,4 +1,13 @@
-## BeautifulSoup ! The only option ?
+---
+title: "BeautifulSoup ! The only option ?"
+datePublished: Mon Nov 16 2020 06:19:23 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7zgh204tr8vs106cj80s8
+slug: beautifulsoup-the-only-option
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607157010750/q7nOYrgGz.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400246210/y17wBN-gC.png
+tags: programming-blogs, github, opensource, python3, web-scraping
+
+---
 
 There are lot of ways in which a developer can scrap web using Python, but why we tend to rely on BeautifulSoup as our first choice or the only choice ??
 
