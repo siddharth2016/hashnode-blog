@@ -1,4 +1,13 @@
-## Django Vs Flask 🤝
+---
+title: "Django Vs Flask 🤝"
+datePublished: Wed Nov 04 2020 04:37:40 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7q8q804s78vs1gqznfdbx
+slug: django-vs-flask
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607157422282/Z7AO78Bdn.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400570644/_EL_jEp1d.png
+tags: programming-blogs, opensource, python3, coding
+
+---
 
 “Django Vs Flask”
 
