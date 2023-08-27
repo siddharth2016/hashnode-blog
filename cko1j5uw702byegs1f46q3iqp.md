@@ -1,4 +1,13 @@
-## Python - List Vs Tuple Memory Management
+---
+title: "Python - List Vs Tuple Memory Management"
+seoDescription: "This article will focus on how memory is managed in Python for objects like list and tuple and what can be the key takeaways."
+datePublished: Wed Apr 28 2021 14:05:10 GMT+0000 (Coordinated Universal Time)
+cuid: cko1j5uw702byegs1f46q3iqp
+slug: python-list-vs-tuple-memory-management
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619618298035/OLC2xHwSy.png
+tags: productivity, python, opensource, beginners
+
+---
 
 This article is going to be a short read, we will focus on how memory is managed in Python for objects like `list` and `tuple` and what can be the key takeaways.
 
