@@ -1,4 +1,13 @@
-## Python Programmer to a Java Developer: Things I Learned
+---
+title: "Python Programmer to a Java Developer: Things I Learned"
+seoDescription: "Learning Java. Python Programmer to a Java Developer: Thing I Learned. Complete Object Oriented Programming Language."
+datePublished: Sat Apr 02 2022 17:02:22 GMT+0000 (Coordinated Universal Time)
+cuid: cl1i3riox03rnjvnvfswcdzry
+slug: python-programmer-to-a-java-developer-things-i-learned
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1648917098765/C2nQaUXSN.png
+tags: java, python, learning, beginners
+
+---
 
 So, a couple of months back I started learning [Java Programming Language](https://en.wikipedia.org/wiki/Java_(programming_language) for a project at my organisation. Initially, like most of us, I felt intimidated by Java. For almost every time, as far as I can remember, I never looked at Java as my choice of language to complete any task at hand. It felt distant and very difficult to understand just because of one `System.out.println`.
 
