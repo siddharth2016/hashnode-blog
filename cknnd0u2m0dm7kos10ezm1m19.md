@@ -1,4 +1,13 @@
-## Orange: The No-Code Tool for Machine Learning
+---
+title: "Orange: The No-Code Tool for Machine Learning"
+seoDescription: "This article introduces Orange, a visual programming software package. Let's see a simple demo of how we can use Orange to do machine learning tasks."
+datePublished: Sun Apr 18 2021 16:04:31 GMT+0000 (Coordinated Universal Time)
+cuid: cknnd0u2m0dm7kos10ezm1m19
+slug: orange-the-no-code-tool-for-machine-learning
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618761120714/uV4vgHWVP.png
+tags: artificial-intelligence, python, tools, data-science, machine-learning
+
+---
 
 The demand for machine learning engineers and data scientists has increased exponentially over the years. This is justified because machine learning is being applied in almost every field to solve real-world problems.
 
