@@ -1,4 +1,13 @@
-## Scala For Beginners - Crash Course - Part 5
+---
+title: "Scala For Beginners - Crash Course - Part 5"
+seoDescription: "Scala programming, learn about collections, map, flatMap and filter in this Scala for beginners crash course and where to go from here."
+datePublished: Mon Sep 13 2021 11:26:58 GMT+0000 (Coordinated Universal Time)
+cuid: cktik9zhr01c0nos1hmqv3rgw
+slug: scala-for-beginners-crash-course-part-5
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631529339828/ysmHxIuv8.png
+tags: tutorial, programming, scala, beginners, functional-programming
+
+---
 
 Welcome to the 5<sup>th</sup> and last part of the Scala beginners crash course, here we will go through the concepts like collections, sequences and map, flatmap, filter in the Scala programming language. This will be a short article, so if you need much more in-depth information you can check out the recommended books at the end of this article.
 
