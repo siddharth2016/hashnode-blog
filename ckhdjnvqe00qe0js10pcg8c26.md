@@ -1,4 +1,13 @@
-## DevOps ! DevOps ! DevOps !
+---
+title: "DevOps ! DevOps ! DevOps !"
+datePublished: Wed Nov 11 2020 15:14:28 GMT+0000 (Coordinated Universal Time)
+cuid: ckhdjnvqe00qe0js10pcg8c26
+slug: devops-devops-devops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1605107528962/YVU5L4ayj.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400352485/-fhIwEr3S.png
+tags: continuous-integration, continuous-deployment, devops, software-engineering, communication
+
+---
 
 DevOps ! DevOps ! DevOps !
 
