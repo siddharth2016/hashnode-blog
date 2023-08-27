@@ -1,4 +1,14 @@
-## Download YouTube Videos Using Python - Your Own YouTube Downloader
+---
+title: "Download YouTube Videos Using Python - Your Own YouTube Downloader"
+seoTitle: "Download YouTube Videos Using Python - Your Own YouTube Downloader"
+seoDescription: "In this article, we are going to see how to download any youtube video using python and pytube in under 10 lines of code."
+datePublished: Thu Apr 29 2021 13:26:45 GMT+0000 (Coordinated Universal Time)
+cuid: cko2x8bh701w4des110xc7fp9
+slug: download-youtube-videos-using-python-your-own-youtube-downloader
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619702191990/tw7mwb4BJ.png
+tags: python, opensource, learning, beginners, youtube
+
+---
 
 Do you find it troublesome to always look for a YouTube video downloader with your privacy at risk? Downloading a YouTube video using an external extension might be maddening because of the mouse click ads and other issues while using that extension.
 
