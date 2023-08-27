@@ -1,4 +1,12 @@
-## Avoid These Mistakes While Training Your AI
+---
+title: "Avoid These Mistakes While Training Your AI"
+datePublished: Sat Apr 10 2021 06:40:46 GMT+0000 (Coordinated Universal Time)
+cuid: cknbdd10b05f2i3s1fwe3c263
+slug: avoid-these-mistakes-while-training-your-ai
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618037081917/Rdh0LImLb.png
+tags: artificial-intelligence, python, opensource, machine-learning, beginners
+
+---
 
 If you want your artificial intelligence (AI) system to perform better, you ought to teach it better, and how do you verify if you have trained it well? By testing it better!
 
