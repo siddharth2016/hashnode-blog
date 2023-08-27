@@ -1,4 +1,13 @@
-## Open Source & GDP
+---
+title: "Open Source & GDP"
+datePublished: Mon Nov 16 2020 06:28:36 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk861t504ul8vs12wp33pgc
+slug: open-source-and-gdp
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607154108153/diw7Wq7Ld.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400036212/9Wb-VFH3Q.png
+tags: programming-blogs, javascript, python, opensource, coding
+
+---
 
 GDP, may be is, one of the most talked about parameter to assess the financial stability of a country.
 
