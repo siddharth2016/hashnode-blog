@@ -1,4 +1,13 @@
-## Quote - README, See wonderful quotes/fun-facts on your GitHub Profile README
+---
+title: "Quote - README, See wonderful quotes/fun-facts on your GitHub Profile README"
+datePublished: Sat Dec 12 2020 06:49:00 GMT+0000 (Coordinated Universal Time)
+cuid: ckilc991903u0ios14ytrdwaj
+slug: quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607754545107/_smoZHlu6.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609399811297/ytvacSb_G.png
+tags: github, python, opensource, 2articles1week
+
+---
 
 Yep, you read it right ! There is a GitHub Action that lets you put an awe-inspiring fact or a famous quote on your GitHub Profile README, so that every morning, when you begin your work, you laugh, feel inspired and be determined.
 
