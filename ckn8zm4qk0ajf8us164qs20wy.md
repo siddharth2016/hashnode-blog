@@ -1,4 +1,12 @@
-## IoT Analytics Tools You Should Try
+---
+title: "IoT Analytics Tools You Should Try"
+datePublished: Thu Apr 08 2021 14:40:24 GMT+0000 (Coordinated Universal Time)
+cuid: ckn8zm4qk0ajf8us164qs20wy
+slug: iot-analytics-tools-you-should-try
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1617892670215/tamnaQokq.png
+tags: machine-learning, data-analysis, iot, beginners, internet-of-things
+
+---
 
 IoT devices across the world are estimated to generate 79.4 ZettaBytes of data by 2025. As the IoT market is steadily growing, there is a need to perform IoT analytics to derive meaningful information from the data collected.
 
