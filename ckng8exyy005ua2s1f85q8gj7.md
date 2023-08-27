@@ -1,4 +1,12 @@
-## Static Code Analysis - Top 5 Tools
+---
+title: "Static Code Analysis - Top 5 Tools"
+datePublished: Tue Apr 13 2021 16:21:08 GMT+0000 (Coordinated Universal Time)
+cuid: ckng8exyy005ua2s1f85q8gj7
+slug: static-code-analysis-top-5-tools
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618330436941/8KKcgRQaT.png
+tags: code-review, github, programming, devops, beginners
+
+---
 
 Static code analysis is a method of analysing and evaluating source code related issues, without actually executing the program. Static code analysis falls under the white box testing category, as here we have the entire code available for the analysis of issues and bugs.
 
