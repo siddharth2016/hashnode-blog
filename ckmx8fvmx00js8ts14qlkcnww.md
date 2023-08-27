@@ -1,4 +1,12 @@
-## Python - A Machine Learning Champ
+---
+title: "Python - A Machine Learning Champ"
+datePublished: Wed Mar 31 2021 09:14:14 GMT+0000 (Coordinated Universal Time)
+cuid: ckmx8fvmx00js8ts14qlkcnww
+slug: python-a-machine-learning-champ
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1617181798791/BUoUGpyqX.png
+tags: artificial-intelligence, python, opensource, machine-learning, beginners
+
+---
 
 Machine Learning, the hot topic of today's computer science community, is something that is capturing the world way faster than the internet did!
 
