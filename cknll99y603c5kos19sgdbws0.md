@@ -1,4 +1,13 @@
-## Let's Draw OpenCV Logo Using OpenCV
+---
+title: "Let's Draw OpenCV Logo Using OpenCV"
+seoDescription: "OpenCV is a powerful computer vision and deep learning library. In this article, we are going to look at the image drawing capabilities of OpenCV."
+datePublished: Sat Apr 17 2021 10:19:29 GMT+0000 (Coordinated Universal Time)
+cuid: cknll99y603c5kos19sgdbws0
+slug: lets-draw-opencv-logo-using-opencv
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618653737809/eKmzvd2xj.png
+tags: image-processing, tutorial, python, opensource, computer-vision
+
+---
 
 OpenCV is an awesome, powerful image-processing, computer vision and deep learning library. It would not be a joke to say that it is the god of all computer vision libraries.
 
