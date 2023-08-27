@@ -1,4 +1,14 @@
-## Scala For Beginners - Crash Course - Part 4
+---
+title: "Scala For Beginners - Crash Course - Part 4"
+seoTitle: "Scala Programming for Beginners"
+seoDescription: "Learn Option, Try and Pattern Matching in this Scala for Beginners crash course."
+datePublished: Mon Sep 06 2021 10:51:34 GMT+0000 (Coordinated Universal Time)
+cuid: ckt8ixhhw02o6vys16t8p60nt
+slug: scala-for-beginners-crash-course-part-4
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1630924877734/rL8YXhmvL.png
+tags: tutorial, programming, scala, course, programming-languages
+
+---
 
 Welcome to the 4<sup>th</sup> part of the scala beginners crash course, here we will go through the concepts like options, exception handling and pattern matching in the scala programming language. This will be a short article, so if you need much more in-depth information you can check out the recommended books at the end of this article.
 
