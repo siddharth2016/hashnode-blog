@@ -1,4 +1,13 @@
-## How To Convert Markdown To HTML Using Python
+---
+title: "How To Convert Markdown To HTML Using Python"
+seoDescription: "In this article, we are going to see how we can use Python to convert GitHub flavoured Markdown text to HTML."
+datePublished: Fri Apr 30 2021 10:13:37 GMT+0000 (Coordinated Universal Time)
+cuid: cko45rsx1015sq7s1gbqw3nqo
+slug: how-to-convert-markdown-to-html-using-python
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619777451810/ZA8Qucyrp.png
+tags: github, programming, python, markdown, automation
+
+---
 
 In this article, we are going to see how we can use python to convert GitHub flavoured markdown text to HTML. We will go through a python library, what are its benefits and how we can leverage it for automated conversion.
 
