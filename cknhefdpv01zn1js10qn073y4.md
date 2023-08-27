@@ -1,4 +1,12 @@
-## Python - Data Science Libraries Simplified
+---
+title: "Python - Data Science Libraries Simplified"
+datePublished: Wed Apr 14 2021 11:57:12 GMT+0000 (Coordinated Universal Time)
+cuid: cknhefdpv01zn1js10qn073y4
+slug: python-data-science-libraries-simplified
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618400984064/7IhAyGMIe.png
+tags: artificial-intelligence, python, opensource, machine-learning, libraries
+
+---
 
 The typical life cycle of a data science project involves jumping back and forth among various interdependent data science tasks using a range of tools, techniques, frameworks programming, etc.
 
