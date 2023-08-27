@@ -1,4 +1,14 @@
-## Scala For Beginners - Crash Course - Part 1
+---
+title: "Scala For Beginners - Crash Course - Part 1"
+seoTitle: "Scala For Beginners - Crash Course - Part 1"
+seoDescription: "Learn Scala language for beginners, Scala Crash Course part 1. This article will help you to begin your Scala Programming journey."
+datePublished: Sat May 22 2021 15:38:30 GMT+0000 (Coordinated Universal Time)
+cuid: ckozx2by00dcrcrs1a4aq7ag1
+slug: scala-for-beginners-crash-course-part-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1621696897344/exdtGVh00.png
+tags: tutorial, programming, scala, beginners, course
+
+---
 
 Welcome to this scala beginners crash course, here we will go through the basic syntax of scala programming language and some of the nuances available just for scala developers!
 
