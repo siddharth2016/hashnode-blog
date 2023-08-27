@@ -1,4 +1,12 @@
-## Visualisation Libraries - JavaScript, Python and More
+---
+title: "Visualisation Libraries - JavaScript, Python and More"
+datePublished: Thu Apr 15 2021 15:28:35 GMT+0000 (Coordinated Universal Time)
+cuid: cknj1f21w0chq1js121tm402y
+slug: visualisation-libraries-javascript-python-and-more
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618500152309/xAOMPTaGWU.png
+tags: javascript, python, data-science, libraries, data-visualisation-1
+
+---
 
 The libraries and toolkits discussed in this article can be used for rendering dynamic plot on desktop, mobile and web-based platforms so that a quick summary of results can be presented. These tools can be used by data scientists and researchers for an effective analysis of dynamic data.
 
