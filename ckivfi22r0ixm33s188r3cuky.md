@@ -1,4 +1,13 @@
-## Scraping Web - Inspiring Quotes
+---
+title: "Scraping Web - Inspiring Quotes"
+datePublished: Sat Dec 19 2020 08:17:32 GMT+0000 (Coordinated Universal Time)
+cuid: ckivfi22r0ixm33s188r3cuky
+slug: scraping-web-inspiring-quotes
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1608365381607/OubuR0iJ7.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609399713411/zQGNNTBqg.png
+tags: github, python, opensource, web-scraping, 2articles1week
+
+---
 
 Feeling lack of inspiration and motivation or just want to learn something new or out here for some fun !
 
