@@ -1,4 +1,13 @@
-## How To Make A SlideShow Using OpenCV
+---
+title: "How To Make A SlideShow Using OpenCV"
+seoDescription: "In this article, we make a slideshow application using OpenCV and Python. A slideshow utility using the cv2.addWeighted method for a smooth transition."
+datePublished: Sun Apr 25 2021 10:48:22 GMT+0000 (Coordinated Universal Time)
+cuid: cknx1t827060ig1s11t1datqn
+slug: how-to-make-a-slideshow-using-opencv
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619346933261/kQQfa1Nb9.png
+tags: image-processing, python, opensource, beginners, opencv
+
+---
 
 We have been making slideshows for most of our college/office presentations to look great while presenting using Microsoft PowerPoint, let's take this as an image processing activity and see how we can achieve slide show utility using Python's OpenCV library in this article.
 
