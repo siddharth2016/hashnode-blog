@@ -1,4 +1,13 @@
-## Brocading Naruto - A Computer Vision Activity
+---
+title: "Brocading Naruto - A Computer Vision Activity"
+datePublished: Sat Dec 05 2020 06:39:15 GMT+0000 (Coordinated Universal Time)
+cuid: ckibbtrat04s6qrs1hl6fc4tj
+slug: brocading-naruto-a-computer-vision-activity
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1608451075956/Nw4zRS_bu.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609399886304/R9GLXu-b8.png
+tags: github, python, opensource, computer-vision, 2articles1week
+
+---
 
 While learning how to do image processing, there are always two terms that we come across from time to time, that is, Convolution and Correlation. This article focusses on Correlation aspect of image processing, that is widely used in image enhancement computer vision applications. Here I have taken one of my favorite anime character Naruto, to help him look awesome among his friends !
 
