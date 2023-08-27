@@ -1,4 +1,14 @@
-## Scala For Beginners - Crash Course - Part 3
+---
+title: "Scala For Beginners - Crash Course - Part 3"
+seoTitle: "Functional Programming in Scala, Scala For Beginners"
+seoDescription: "Learn the basics of functional programming in scala in this beginners course. Learn higher-order, curries and anonymous functions in scala."
+datePublished: Thu Sep 02 2021 09:56:18 GMT+0000 (Coordinated Universal Time)
+cuid: ckt2r70n50e362is1cpm94ngx
+slug: scala-for-beginners-crash-course-part-3
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1630575902470/ffLvQm1yq.png
+tags: tutorial, programming-blogs, programming, scala, functional-programming
+
+---
 
 Welcome to the 3<sup>rd</sup> part of the scala beginners crash course, here we will go through the functional way of scala programming language and concepts like higher-order functions, curries and anonymous functions!
 
