@@ -1,4 +1,12 @@
-## Making PongPong ! The End 🤝
+---
+title: "Making PongPong ! The End 🤝"
+datePublished: Thu Jan 28 2021 06:22:47 GMT+0000 (Coordinated Universal Time)
+cuid: ckkgh0kcd02ftt7s1d768ejje
+slug: making-pongpong-the-end
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1611814951934/exPAPuUkr.png
+tags: tutorial, github, python, opensource, game-development
+
+---
 
 Are you just starting your Game Development journey ?
 
