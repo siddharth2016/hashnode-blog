@@ -1,4 +1,13 @@
-## Scraping Web - Awesome Facts
+---
+title: "Scraping Web - Awesome Facts"
+datePublished: Sun Dec 20 2020 07:55:39 GMT+0000 (Coordinated Universal Time)
+cuid: ckiwu5rtj0ord44s13kyq62p7
+slug: scraping-web-awesome-facts
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1608450235750/-quwlcQIm.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609399670421/TXFnhe9VI.png
+tags: github, python, opensource, web-scraping, 2articles1week
+
+---
 
 Want some awesome facts to start your day or just want to learn something new or out here for some fun !
 
