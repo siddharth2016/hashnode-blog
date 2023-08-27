@@ -1,4 +1,13 @@
-## Books I Read in 2021
+---
+title: "Books I Read in 2021"
+seoDescription: "The Alchemist, The Richest Man in Babylon, The Immortals of Meluha, Rogue Lawyer, Think and Grow Rich, The Girl on The Train."
+datePublished: Sun Dec 26 2021 12:07:12 GMT+0000 (Coordinated Universal Time)
+cuid: ckxn7ias5062171s1hkc81upc
+slug: books-i-read-in-2021
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1640519998598/Y8miqWpWJ.png
+tags: books, personal, business-and-finance
+
+---
 
 ## Overview
 
