@@ -1,4 +1,12 @@
-## Hello Open Source and Happy New Year 2021 🎉
+---
+title: "Hello Open Source and Happy New Year 2021 🎉"
+datePublished: Thu Dec 31 2020 08:00:25 GMT+0000 (Coordinated Universal Time)
+cuid: ckjck6a130dv2lvs1c0yl58ak
+slug: hello-open-source-and-happy-new-year-2021
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1609401596171/YV8xJSlFv.png
+tags: github, python, opensource, 2articles1week, devcommunity
+
+---
 
 Today marks the end of 2020 ! With less than 24 hours remaining to 1st January 2021, when I look back to the whole year, I can only feel blessed and full of gratitude 🙏
 
