@@ -1,4 +1,12 @@
-## Python Asterisks
+---
+title: "Python Asterisks"
+datePublished: Tue Mar 16 2021 09:02:30 GMT+0000 (Coordinated Universal Time)
+cuid: ckmbsezxp05v25ns1f0wx17mh
+slug: python-asterisks
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1615885259516/FjrHGlAmV.png
+tags: python, developer, software-engineering, programming-languages, basics
+
+---
 
 Asterisk, we all know is a little star symbol (*), used in programming languages for multiplication and other tasks like pointer declaration!
 
