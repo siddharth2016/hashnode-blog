@@ -1,4 +1,13 @@
-## Hello Open Source 👋
+---
+title: "Hello Open Source 👋"
+datePublished: Thu Nov 12 2020 07:38:01 GMT+0000 (Coordinated Universal Time)
+cuid: ckheisq1f0463zms11f7v5ol1
+slug: hello-open-source
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1605166665888/SRTl-sWIr.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400308995/K66O1Qcio.png
+tags: github, opensource, python3, beginners, hello-world
+
+---
 
 Open Source can be tough (was for me, still is !) if we don’t know some basic concepts or way of doing things the right way !
 To give a context, I didn’t know what is PR or merge in git, till my 4th year of B.Tech.
