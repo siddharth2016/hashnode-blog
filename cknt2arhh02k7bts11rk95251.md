@@ -1,4 +1,12 @@
-## 10 Most Popular GitHub Repositories
+---
+title: "10 Most Popular GitHub Repositories"
+datePublished: Thu Apr 22 2021 15:50:56 GMT+0000 (Coordinated Universal Time)
+cuid: cknt2arhh02k7bts11rk95251
+slug: 10-most-popular-github-repositories
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619106430581/la8-RR8bF.png
+tags: github, programming, javascript, python, opensource
+
+---
 
 Open Source Software (OSS) has been getting a lot of traction in recent years. Right now, there are approximately 200,000 open source projects worth billions of dollar, being worked on across the globe.
 
