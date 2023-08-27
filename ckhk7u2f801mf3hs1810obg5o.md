@@ -1,4 +1,12 @@
-## Yet another GitHub Action !
+---
+title: "Yet another GitHub Action !"
+datePublished: Sat Nov 07 2020 06:17:46 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7u2f801mf3hs1810obg5o
+slug: yet-another-github-action
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1605511063246/QnkYDAoJ1.png
+tags: programming-blogs, github, python3, coding, github-actions-1
+
+---
 
 “All parts should go together without forcing. You must remember that the parts you are reassembling were disassembled by you. Therefore, if you can’t get them together again, there must be a reason. By all means, do not use a hammer.”
 
