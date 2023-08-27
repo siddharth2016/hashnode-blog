@@ -1,4 +1,13 @@
-## How To Create A Paint Brush Application Using OpenCV
+---
+title: "How To Create A Paint Brush Application Using OpenCV"
+seoDescription: "Create a paintbrush application using OpenCV. Here, you will learn about how to create a simple OpenCV application and how OpenCV can be used for GUI tasks."
+datePublished: Tue Apr 20 2021 11:59:35 GMT+0000 (Coordinated Universal Time)
+cuid: cknpz5k380tnjkos15vz4arks
+slug: how-to-create-a-paint-brush-application-using-opencv
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1618919151441/jv7QucdZC.png
+tags: image-processing, python, opensource, computer-vision, opencv
+
+---
 
 Creating a paintbrush application is one of the most fun activity while learning computer vision and image processing with a little bit of GUI concepts. Using OpenCV for such an application saves us a lot of time by not needing to know the basics of GUI programming, so we can only be left with image processing tasks at hand.
 
