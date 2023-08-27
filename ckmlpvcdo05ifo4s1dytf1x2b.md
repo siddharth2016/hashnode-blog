@@ -1,4 +1,12 @@
-## Why Your Application Program Maybe At Risk?
+---
+title: "Why Your Application Program Maybe At Risk?"
+datePublished: Tue Mar 23 2021 07:48:55 GMT+0000 (Coordinated Universal Time)
+cuid: ckmlpvcdo05ifo4s1dytf1x2b
+slug: why-your-application-program-maybe-at-risk
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1617015405594/xL2PlrtP2.png
+tags: javascript, python, opensource, devops, software-engineering
+
+---
 
 When you read the headline of this blog, you might think that we are going to explore some best practices to follow to avoid risk while building software, right?
 
