@@ -1,4 +1,13 @@
-## Delegating OOPs
+---
+title: "Delegating OOPs"
+datePublished: Mon Nov 16 2020 06:23:10 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk8161c04tz8vs17srfgo7e
+slug: delegating-oops
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607154395677/DEf8pUURz.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400139022/qGqvucpjp.png
+tags: programming-blogs, opensource, python3, inheritance, object-oriented-programming
+
+---
 
 **Delegation**
 
