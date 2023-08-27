@@ -1,4 +1,14 @@
-## Scala For Beginners - Crash Course - Part 2
+---
+title: "Scala For Beginners - Crash Course - Part 2"
+seoTitle: "Scala Tutorial For Beginners - Crash Course"
+seoDescription: "Scala tutorial for beginners, a crash course. Object-oriented programming using scala, learn about objects, case class, abstract class and traits."
+datePublished: Tue Aug 31 2021 17:04:16 GMT+0000 (Coordinated Universal Time)
+cuid: ckt0blohg074v54s16ko5e1so
+slug: scala-for-beginners-crash-course-part-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1630427731200/vmXYNpyiq.png
+tags: tutorial, programming-blogs, programming, scala, functional-programming
+
+---
 
 Welcome to the 2<sup>nd</sup> part of scala beginners crash course, here we will go through the object-oriented way of scala programming language and concepts like anonymous class, case classes and traits!
 
