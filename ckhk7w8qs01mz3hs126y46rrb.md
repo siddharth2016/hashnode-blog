@@ -1,4 +1,13 @@
-## GitHub for Mobile 👌
+---
+title: "GitHub for Mobile 👌"
+datePublished: Mon Nov 16 2020 06:55:25 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7w8qs01mz3hs126y46rrb
+slug: github-for-mobile
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607153564683/YKzLw28eP.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609399971440/iIZ0lzR2I.png
+tags: programming-blogs, github, opensource, python3, coding
+
+---
 
 GitHub for mobile, get a lot of done with ease of using your smartphone !
 
