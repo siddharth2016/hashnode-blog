@@ -1,4 +1,13 @@
-## Sayonara Python 3.5 🙏🏼
+---
+title: "Sayonara Python 3.5 🙏🏼"
+datePublished: Wed Nov 04 2020 03:45:48 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7mric01la3hs102k9hn9y
+slug: sayonara-python-35
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607157689504/N9SE2gaF-.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400646043/rUwya-FSt.png
+tags: programming-blogs, opensource, python3, coding
+
+---
 
 Sayonara Python 3.5 !
 
