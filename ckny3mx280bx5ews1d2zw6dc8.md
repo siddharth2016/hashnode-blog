@@ -1,4 +1,13 @@
-## Shell Script Basics
+---
+title: "Shell Script Basics"
+seoDescription: "In this article, we are going to see the basics of shell scripting, how echo command, comments, variables and conditionals can be used in a shell script."
+datePublished: Mon Apr 26 2021 04:27:13 GMT+0000 (Coordinated Universal Time)
+cuid: ckny3mx280bx5ews1d2zw6dc8
+slug: shell-script-basics
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1619410959444/zRf2a1H8t.png
+tags: shell, beginners, script, basics
+
+---
 
 The best thing about GNU/Linux is that it’s packed with utilities that improve productivity immensely. One such utility is a shell that can help accomplish complex tasks with just a few sequences of commands. Most of the time, users operate shell in an interactive way. 
 
