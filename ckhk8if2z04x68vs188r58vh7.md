@@ -1,4 +1,13 @@
-## Write before you CODE
+---
+title: "Write before you CODE"
+datePublished: Thu Nov 05 2020 07:55:54 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk8if2z04x68vs188r58vh7
+slug: write-before-you-code
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607157316702/hul-UdC57.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400532879/xSOHq5rSO.png
+tags: programming-blogs, java, javascript, opensource, python3
+
+---
 
 Writing steps/points before coding, is something I started last month and have seen countless benefits !
 
