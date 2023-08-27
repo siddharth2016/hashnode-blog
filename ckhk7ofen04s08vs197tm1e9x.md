@@ -1,4 +1,13 @@
-## Start Machine Learning With ...
+---
+title: "Start Machine Learning With ..."
+datePublished: Wed Nov 04 2020 04:22:01 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7ofen04s08vs197tm1e9x
+slug: start-machine-learning-with
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607157542578/26ekp4g8A.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400609088/hsSv4elPe.png
+tags: programming-blogs, data-science, opensource, machine-learning, python3
+
+---
 
 "Machine Learning"
 "Don't know what is Machine Learning"
