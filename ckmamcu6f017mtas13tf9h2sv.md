@@ -1,4 +1,12 @@
-## Let's Talk Python - Some of the Unknown 👤
+---
+title: "Let's Talk Python - Some of the Unknown 👤"
+datePublished: Mon Mar 15 2021 13:25:05 GMT+0000 (Coordinated Universal Time)
+cuid: ckmamcu6f017mtas13tf9h2sv
+slug: lets-talk-python-some-of-the-unknown
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1615814931762/JYUU9Wmb2.png
+tags: tricks, github, python, opensource, software-engineering
+
+---
 
 After working on and building things using python programming language for a while, I feel that there are some of the tricks or unknowns that this beast of a language contains and has to offer !
 
