@@ -1,4 +1,12 @@
-## Big Data Open Source Frameworks
+---
+title: "Big Data Open Source Frameworks"
+datePublished: Thu Dec 02 2021 12:48:55 GMT+0000 (Coordinated Universal Time)
+cuid: ckwoyfich00na9as1bgtl9abz
+slug: big-data-open-source-frameworks
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1638445825326/h1sZBUeYa.png
+tags: hadoop, big-data, opensource, spark, scala
+
+---
 
 Big Data is a term used to define large scale data sets that are too complex to be manipulated with basic DBMS. Handling Big Data requires sophisticated hardware and software technologies.
 
