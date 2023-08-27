@@ -1,4 +1,13 @@
-## Python WEB Summit'20
+---
+title: "Python WEB Summit'20"
+datePublished: Mon Nov 16 2020 07:05:29 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7eb7s04qm8vs1ayswb86w
+slug: python-web-summit20
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607152106528/kTk5qjCIs.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609399930415/qh03fLMlY.png
+tags: opensource, python3, programming-ciovqvfcb008mb253jrczo9ye
+
+---
 
 “Offline events are gone for some time, but the tech world doesn't slow down”
 
