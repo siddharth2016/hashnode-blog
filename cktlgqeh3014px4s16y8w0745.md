@@ -1,4 +1,12 @@
-## Preptember - Prepare For HacktoberFest 2021
+---
+title: "Preptember - Prepare For HacktoberFest 2021"
+datePublished: Wed Sep 15 2021 12:11:04 GMT+0000 (Coordinated Universal Time)
+cuid: cktlgqeh3014px4s16y8w0745
+slug: preptember-prepare-for-hacktoberfest-2021
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631707189635/aqY7K57u6.png
+tags: javascript, python, opensource, scala, beginners
+
+---
 
 Hey everyone, HacktoberFest is around the corner (just 15 days away) and for all those who are searching for repositories to contribute to this October, worry not, I have gathered a list of repositories best suited for beginners in open source.
 
