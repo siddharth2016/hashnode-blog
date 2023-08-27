@@ -1,4 +1,12 @@
-## Making PONGPONG - Game Development using Pyglet - Part 2
+---
+title: "Making PONGPONG - Game Development using Pyglet - Part 2"
+datePublished: Wed Jan 20 2021 15:35:02 GMT+0000 (Coordinated Universal Time)
+cuid: ckk5l7ykr00ygjds1av149a07
+slug: making-pongpong-game-development-using-pyglet-part-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1611156149936/6MS4N-8Jy.png
+tags: github, python, opensource, game-development, coding
+
+---
 
 In this 3 part series, we will be making a game, using python game programming library *[pyglet](https://pypi.org/project/pyglet/)*.
 
