@@ -1,4 +1,12 @@
-## My Top 5 Python Libraries, I used in 2020 !
+---
+title: "My Top 5 Python Libraries, I used in 2020 !"
+datePublished: Thu Dec 31 2020 09:01:13 GMT+0000 (Coordinated Universal Time)
+cuid: ckjcmcgug0enskus155ss4zxt
+slug: my-top-5-python-libraries-i-used-in-2020
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1609405251258/QGA9MrnUW.png
+tags: github, python, opensource, learning, 2articles1week
+
+---
 
 So today marks the end of 2020, with less than 24hrs left for 1st January 2021, when I look at what I developed and learned in the past 1 year, I came to draw my top 5 python libraries that I learned and used to make some projects!
 
