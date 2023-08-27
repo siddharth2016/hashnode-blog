@@ -1,4 +1,13 @@
-## Python (NEW) Print ?
+---
+title: "Python (NEW) Print ?"
+datePublished: Mon Nov 16 2020 06:26:36 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk83hm604ua8vs17hcvat56
+slug: python-new-print
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607154264034/Y1L8Tj8yr.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400112264/fRdwVHi9K.png
+tags: programming-blogs, python, opensource, coding
+
+---
 
 Recently, Guido Van Rossum (Creator of Python) presented python community with the idea of new print statement !
 
