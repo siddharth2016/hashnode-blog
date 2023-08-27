@@ -1,4 +1,13 @@
-## Scala Vs Python Syntax Cheat Sheet
+---
+title: "Scala Vs Python Syntax Cheat Sheet"
+seoDescription: "Learn the similarities and differences between Scala and Python programming languages. A simple comparison cheat sheet on Scala vs Python."
+datePublished: Tue Sep 14 2021 10:25:12 GMT+0000 (Coordinated Universal Time)
+cuid: cktjxiehh00plo8s1150q518j
+slug: scala-vs-python-syntax-cheat-sheet
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1631614393503/8Ke5pWy6oB.png
+tags: programming, python, scala, developer, general-advice
+
+---
 
 There are about 8 million Python developers around the world and it's also the top programming language people want to learn, but why is that? Why not any other language but Python? Let me tell you, Python offers a lean learning curve, with just 2-3 days of hands-on Python anyone can start developing applications (they might not be technically sound software initially), it's syntax is one of the easiest to learn due to its plain english like code, it offers flexibility from both domains either object-oriented or functional programming (not so much FP, but it has its benefits) and it is used in almost every field of software engineering.
 
