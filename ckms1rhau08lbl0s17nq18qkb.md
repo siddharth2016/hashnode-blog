@@ -1,4 +1,12 @@
-## Python - Useful Tips for Beginners
+---
+title: "Python - Useful Tips for Beginners"
+datePublished: Sat Mar 27 2021 18:08:27 GMT+0000 (Coordinated Universal Time)
+cuid: ckms1rhau08lbl0s17nq18qkb
+slug: python-useful-tips-for-beginners
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1616891410487/-rKHk5VFx.png
+tags: tricks, python, opensource, beginners, programming-tips
+
+---
 
 Python ranked as the number 1 programming language as per PYPL - Popularity of Programming Language. Python is easy to learn, without putting too much pressure on the learner, it helps to get started with programming in the most friendly way possible with the use of concise and easy to read plain English like syntax, with powers like - dynamically typed variables, single-click execution with no worry about compiling code first - using it as your first language to do just anything and everything out there is definitely the right choice!
 
