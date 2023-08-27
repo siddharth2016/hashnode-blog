@@ -1,4 +1,13 @@
-## Update Image - README, See random image on your GitHub Profile README
+---
+title: "Update Image - README, See random image on your GitHub Profile README"
+datePublished: Sun Dec 13 2020 05:36:03 GMT+0000 (Coordinated Universal Time)
+cuid: ckimp3aco034otxs16tb59bg6
+slug: update-image-readme-see-random-image-on-your-github-profile-readme
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607837130419/3qRF0PzJk.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609399754066/vgHS41gz_.png
+tags: github, python, opensource, 2articles1week, github-actions-1
+
+---
 
 Yep, you read it right ! There is a GitHub Action that lets you put a random image (from a collection of yours) on your GitHub Profile README. Here I am again, with another no-so-useful GitHub Action ! Not saw the previous Action ? Check it out [here](quote-readme-see-wonderful-quotesfun-facts-on-your-github-profile-readme).
 
