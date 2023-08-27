@@ -1,4 +1,13 @@
-## Python Dunder Magic 🐍
+---
+title: "Python Dunder Magic 🐍"
+datePublished: Tue Nov 03 2020 17:46:11 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7j9su04re8vs1939q3r97
+slug: python-dunder-magic
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607157779253/omzil10rE.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400679746/gfiCF81nm.png
+tags: programming-blogs, opensource, python3, coding
+
+---
 
 Dunder methods in Python not only helps in operator overloading, but it gives the power to instantiate a class however we want (talking about `__new__` method).
 
