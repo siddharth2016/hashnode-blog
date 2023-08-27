@@ -1,4 +1,13 @@
-## Python De-Prioritise Performance ?
+---
+title: "Python De-Prioritise Performance ?"
+datePublished: Fri Nov 06 2020 07:02:25 GMT+0000 (Coordinated Universal Time)
+cuid: ckhk7ri7204sk8vs15ttu3924
+slug: python-de-prioritise-performance
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607157179765/QFxunu6o3.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609400475338/ChJRnfSJ_.png
+tags: programming-blogs, opensource, python3, coding, numpy
+
+---
 
 Python deprioritize the performance use-case, so does the developers using Python !
 Although, there is one group that suffers because of this, the one that uses computing on data, the data scientists !!
