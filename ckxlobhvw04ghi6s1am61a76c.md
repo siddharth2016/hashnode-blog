@@ -1,4 +1,14 @@
-## Blockchain Fundamentals, Cryptocurrencies and Open Source
+---
+title: "Blockchain Fundamentals, Cryptocurrencies and Open Source"
+seoTitle: "Blockchain Fundamentals and Cryptocurrencies"
+seoDescription: "Blockchain is a disruptive technology that is changing the world in a variety of ways. Cryptocurrencies are the most obvious example. Blockchain technology"
+datePublished: Sat Dec 25 2021 10:22:15 GMT+0000 (Coordinated Universal Time)
+cuid: ckxlobhvw04ghi6s1am61a76c
+slug: blockchain-fundamentals
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1640427069260/JwmYC4-O4.png
+tags: opensource, beginners, blockchain, cryptocurrency, web3
+
+---
 
 ## Overview
 
