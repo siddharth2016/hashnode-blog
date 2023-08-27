@@ -1,4 +1,15 @@
-## A Part of All I Earn, is Mine to Keep
+---
+title: "A Part of All I Earn, is Mine to Keep"
+seoTitle: "The Richest Man In Babylon"
+seoDescription: "The Richest Man in Babylon, is the book that asks these questions, considers several scenarios, that could lead a person to become rich."
+datePublished: Sun Dec 06 2020 07:00:09 GMT+0000 (Coordinated Universal Time)
+cuid: ckics0hgu02nmbhs18z8u92wm
+slug: richest-man-in-babylon
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1607237872993/1KloWAF0L.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1609399849185/9EM6d_OHA.png
+tags: blog, books, personal, 2articles1week, business-and-finance
+
+---
 
 Have you ever wondered how rich people got rich? How do they manage their finances? Who were/are their advisers when it comes to managing money?
 
